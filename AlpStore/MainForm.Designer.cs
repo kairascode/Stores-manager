@@ -177,7 +177,7 @@ namespace AlpStores
 			this.Name = "MainForm";
 			this.Opacity = 0.9D;
 			this.ShowIcon = false;
-			this.Text = "ALPRIDE INVENTORY MANAGEMENT SYSTEM ";
+			this.Text = "ALPRIDE STORES MANAGEMENT SYSTEM ";
 			this.TransparencyKey = System.Drawing.Color.White;
 			this.Load += new System.EventHandler(this.MainFormLoad);
 			this.menuStrip1.ResumeLayout(false);
